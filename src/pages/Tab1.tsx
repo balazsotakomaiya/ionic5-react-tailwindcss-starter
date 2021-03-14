@@ -16,7 +16,13 @@ const Tab1: React.FC = () => {
             <IonTitle size="large">Tab 1</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer name="Tab 1 page" />
+        <div className='p-2.5'>
+            <h1 className="text-6xl font-bold">
+              <span className="bg-clip-text text-transparent bg-gradient-to-r from-red-400 to-blue-500">
+                Greetings from TailwindCSS
+              </span>
+            </h1>
+        </div>
       </IonContent>
     </IonPage>
   );
