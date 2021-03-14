@@ -1,4 +1,4 @@
-# Ionic 5 + React + TailwindCSS Starter
+# 🚀 Ionic 5 + React + TailwindCSS Starter
 
 ## Installation
 Ensure that you have Node, NPM & the [Ionic CLI](https://ionicframework.com/docs/intro/cli) installed.
