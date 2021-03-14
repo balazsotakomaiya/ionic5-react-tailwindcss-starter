@@ -1,0 +1,17 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ionic5-react-tailwindcss-starter",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "server": {
+    "url": "http://192.168.1.227:8100",
+    "cleartext": true
+  }
+}

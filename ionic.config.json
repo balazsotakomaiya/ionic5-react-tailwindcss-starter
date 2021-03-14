@@ -1,0 +1,7 @@
+{
+  "name": "ionic5-react-tailwindcss-starter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
